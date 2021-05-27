@@ -1,0 +1,19 @@
+Mes améliorations dans birdie : 
+
+agrandissement des titres de page exmple : encyclopédie
+
+arrondissement des bord de toutes les lignes ( coherence avec tous le reste arrondit) 
+
+retrecir le fond de certaines pages style encyclopédie pour que ce soit plus rond 
+
+amélioration des pages "profil"
+
+moin arrondire les image et le fond des petites sections exmple dans la page encyclopédie 
+tjr dans ces petites section hierarchisé le text, + changement de couleurs,
+
+moins arrondire les images
+
+dans pages avec descriptif de l'oiseau :
+	- arranger le text (justification + agrandissement de la largeur du pavé de text) comme dans linspiration du design du chat
+
+...
